@@ -1,6 +1,7 @@
-Chapter1/.vscode/
-Chapter2/.vscode/
-Chapter3/*
+!Chapter1/ex*.md
+!Chapter1/ex*.cpp
+!Chapter2/ex*.md
+!Chapter2/ex*.cpp
 !Chapter3/ex*.md
 !Chapter3/ex*.cpp
 
